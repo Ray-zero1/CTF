@@ -7,4 +7,9 @@
 * 画像開く
 * zsteg -a ファイル名
 
-## 
+## Crypto
+* rot13
+* caesar
+* vigenere-solver
+  <https://www.guballa.de/vigenere-solver>
+*
