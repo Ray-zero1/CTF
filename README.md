@@ -1,11 +1,11 @@
 # CTF
 チート表
 
-## 画像ファイル
-* strings ファイル名| grep ''
+## Image file
+* strings filename| grep ''
 * file 
 * 画像開く
-* zsteg -a ファイル名
+* zsteg -a filename
 
 ## Crypto
 * rot13
@@ -13,3 +13,7 @@
 * vigenere-solver
   <https://www.guballa.de/vigenere-solver>
 *
+
+## Web
+* developer tools
+* Cookie
