@@ -5,6 +5,6 @@
 * strings ファイル名| grep ''
 * file 
 * 画像開く
-* zsteg
+* zsteg -a ファイル名
 
 ## 
