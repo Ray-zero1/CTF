@@ -4,7 +4,7 @@
 ## Image file
 * strings filename| grep ''
 * file 
-* 画像開く
+* Open images
 * zsteg -a filename
 
 ## Crypto
@@ -12,8 +12,10 @@
 * caesar
 * vigenere-solver
   <https://www.guballa.de/vigenere-solver>
-*
+* Base
 
 ## Web
 * developer tools
 * Cookie
+* User-Agent
+* Network conditions
