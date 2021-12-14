@@ -22,3 +22,5 @@
 
 ## Pwn
 * Pwntools <https://github.com/Gallopsled/pwntools>
+* OSCommand Injection
+* Overflow
