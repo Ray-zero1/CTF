@@ -25,3 +25,6 @@
 * Pwntools <https://github.com/Gallopsled/pwntools>
 * OSCommand Injection(;sh)
 * Overflow
+
+## Forensic
+* text file → 置換
