@@ -28,7 +28,7 @@
 
 ## Forensic
 * text file → 置換
-
+* Disk Image → FTK Imager (directly analysis)
 ## Network
 * pcap → Wireshark
 * ftp → FileZilla
@@ -36,3 +36,5 @@
 ## SQL injection
 * 1' or '1' = '1';--
 * SELECT * FROME table_name
+
+
